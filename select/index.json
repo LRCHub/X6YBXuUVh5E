@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "TAKE ACTION",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2026-03-01T08:31:00.142443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Courage to Take Action",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/01_The_Courage_to_Take_Action_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Action",
+      "artist": "Froglord",
+      "has_synced": false,
+      "path": "select/02_Take_Action_Froglord.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Courage To Take Action",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/03_The_Courage_To_Take_Action_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Action",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/04_Take_Action_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Action",
+      "artist": "Rob Bailey & The Hustle Standard",
+      "has_synced": true,
+      "path": "select/05_Take_Action_Rob_Bailey_&_The_Hustle_Standard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Action",
+      "artist": "Rob Bailey",
+      "has_synced": true,
+      "path": "select/06_Take_Action_Rob_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Action (2004 Remaster)",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/07_Take_Action_(2004_Remaster)_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Courage to Take Action",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/08_The_Courage_to_Take_Action_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAKE ACTION",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_TAKE_ACTION_VOLTACTION.txt"
+    }
+  ]
+}
